@@ -1,3 +1,5 @@
+![Preview Image](maxresdefault.jpg)
+
 🚀 Roblox Synapse X 🚀 📜 Overview Welcome to Roblox Synapse X, the most advanced and reliable script executor for Roblox. Synapse X provides high-level execution capabilities for Lua scripts, giving you the power to manipulate Roblox games like never before. Whether you're an experienced scripter or just looking to explore new game-breaking possibilities, Synapse X is the ultimate tool for executing scripts, automating gameplay, and unlocking hidden features in your favorite Roblox games.
 
 Installation To install synapse x script, follow these simple steps:
